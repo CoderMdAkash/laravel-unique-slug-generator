@@ -1,7 +1,12 @@
 {
     "name": "mdakashmia/laravel-unique-slug",
     "description": "A Unique Slug Generator for Laravel",
-    "type": "composer-plugin",
+    "keywords": [
+        "laravel_unique_slug",
+        "laravel",
+        "laravel-unique-slug"
+    ],
+    "homepage": "https://github.com/ManiruzzamanAkash/laravel-unique-slug-generator",
     "license": "MIT",
     "autoload": {
         "psr-4": {
