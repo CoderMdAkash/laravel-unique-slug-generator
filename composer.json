@@ -6,7 +6,7 @@
         "laravel",
         "laravel-unique-slug"
     ],
-    "homepage": "https://github.com/ManiruzzamanAkash/laravel-unique-slug-generator",
+    "homepage": "https://github.com/CoderMdAkash/laravel-unique-slug-generator",
     "license": "MIT",
     "autoload": {
         "psr-4": {
