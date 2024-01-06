@@ -1,5 +1,5 @@
 {
-    "name": "akash/laravel-unique-slug",
+    "name": "mdakashmia/laravel-unique-slug",
     "description": "A Unique Slug Generator for Laravel",
     "type": "composer-plugin",
     "license": "MIT",
@@ -10,7 +10,7 @@
     },
     "authors": [
         {
-            "name": "akash",
+            "name": "mdakashmia",
             "email": "akash904069@gmail.com"
         }
     ],
